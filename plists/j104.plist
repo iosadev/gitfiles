@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>org.coolstar.electra</string>
 				<key>bundle-version</key>
-				<string>1.0.4</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
